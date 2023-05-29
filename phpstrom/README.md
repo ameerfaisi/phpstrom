@@ -1,2 +1,2 @@
 
-This is my phpstrom and git integration practice file. 
+This is my Phpstrom and git integration practice file. 
